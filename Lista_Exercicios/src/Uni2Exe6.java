@@ -11,7 +11,8 @@ public class Uni2Exe6 {
         Double valor_hora = myScanner.nextDouble();
         Double salario = horas * valor_hora;
         System.out.printf("ID do funcionário: %d" , id);
-        System.out.printf("\nSalário: R$%.2f", salario);
+        System.out.println("");
+        System.out.printf("Salário: R$%.2f", salario);
         myScanner.close();
     }
 }
