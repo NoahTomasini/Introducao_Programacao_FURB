@@ -1,4 +1,4 @@
-public class App {
+public class AnotacoesIfElse {
     public static void main(String[] args) {
         Float media = 5F;
         if(media >= 6) {
@@ -9,4 +9,4 @@ public class App {
         }
     }
 }
-// para and utilizar &&; para ou utilizar || (pipe/barra vertical)
+// para and utilizar &&; para ou utilizar || (pipe/barra vertical)]
