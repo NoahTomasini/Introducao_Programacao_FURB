@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Uni2Exe7 {
+public class Uni2Exe07 {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
         System.out.println("Digite o nome do vendedor(a):");

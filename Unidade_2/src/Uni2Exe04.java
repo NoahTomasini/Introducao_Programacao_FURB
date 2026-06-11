@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Uni2Exe4 {
+public class Uni2Exe04 {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
         System.out.println("Digite o primeiro valor da média:");

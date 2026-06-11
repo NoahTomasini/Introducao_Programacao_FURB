@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Uni2Exe5 {
+public class Uni2Exe05 {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
         System.out.println("Digite o valor de A:");

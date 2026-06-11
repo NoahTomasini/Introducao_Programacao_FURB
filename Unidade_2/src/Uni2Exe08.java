@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Uni2Exe8 {
+public class Uni2Exe08 {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
         System.out.print("Digite o código da peça 1: ");

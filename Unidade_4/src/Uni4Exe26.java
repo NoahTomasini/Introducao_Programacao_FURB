@@ -29,7 +29,7 @@ public class Uni4Exe26 {
             case 'C':
                 System.out.println("Digite o raio:");
                 int raio = myScanner.nextInt();
-                return Math.PI*Math.powExact(raio, 2);
+                return Math.PI*Math.pow(raio, 2);
             default:
                 throw new IllegalArgumentException("Insira uma opção válida.");
         }

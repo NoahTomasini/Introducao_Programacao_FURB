@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Uni05Exe06 {

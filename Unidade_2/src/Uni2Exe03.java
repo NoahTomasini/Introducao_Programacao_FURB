@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Uni2Exe3 {
+public class Uni2Exe03 {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
         System.out.println("Digite o raio da circunferência:");
